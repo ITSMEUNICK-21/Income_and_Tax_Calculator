@@ -7,3 +7,6 @@ Reliable and easy-to-use calculator to estimate your taxable income and tax paya
 
 * Codiga - Static Analysis    
 ![Quality](https://api.codiga.io/project/32105/score/svg)
+
+* Build   
+[![Build CI - Linux](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/c-cpp.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/c-cpp.yml)
