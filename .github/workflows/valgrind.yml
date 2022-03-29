@@ -24,6 +24,7 @@ jobs:
       # Installs the required dependencies
       - name: apt install dependency
         run: |
+            sudo apt update
             sudo apt-get -y install valgrind
             
       # Runs a set of commands using the runners shell
