@@ -30,4 +30,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: make test
         run: |
-          make test -C 3_Implementation/
+          make -C 3_Implementation/
