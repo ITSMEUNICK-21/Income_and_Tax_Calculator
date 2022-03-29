@@ -1,5 +1,5 @@
 # Income_and_Tax_Calculator
-Reliable and easy-to-use calculator to estimate your taxable income or tax payable.
+Reliable and easy-to-use calculator to estimate your taxable income or tax payable
 
 # Badges
 * Codacy - Static Code Analysis     
