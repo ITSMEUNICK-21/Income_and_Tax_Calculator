@@ -10,4 +10,3 @@ Reliable and easy-to-use calculator to estimate your taxable income or tax payab
 
 * Build   
 [![Build CI - Linux](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/c-cpp.yml/badge.svg?branch=main)](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/c-cpp.yml)
-[![Build CI -Windows](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/windows.yml/badge.svg)](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/actions/workflows/windows.yml)
