@@ -2,10 +2,11 @@
 //By HNS
 
 #include <stdio.h>
+#include "all_functions.h"
 
-extern double oldreg_60less(double income_o);
-extern double oldreg_60more(double income_o);
-extern double oldreg_80more(double income_o);
+double oldreg_60less(double income_o);
+double oldreg_60more(double income_o);
+double oldreg_80more(double income_o);
 
 extern double newreg_all(double income_n);
 
