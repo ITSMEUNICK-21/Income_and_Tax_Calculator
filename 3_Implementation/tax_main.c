@@ -1,4 +1,4 @@
-//Revision : 19 March 2022, 20 March 2022, 22 March 2022
+//Revision : 22 March 2022, 25 March 2022, 29 March 2022, 30 March 2022
 //By HNS
 
 #include <stdio.h>
@@ -8,7 +8,7 @@ double oldreg_60less(double income_o);
 double oldreg_60more(double income_o);
 double oldreg_80more(double income_o);
 
-extern double newreg_all(double income_n);
+double newreg_all(double income_n);
 
 int main()
 {
