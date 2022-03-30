@@ -10,14 +10,14 @@ Reliable and easy-to-use calculator to estimate your taxable income or tax payab
 # Folder Structure
 |Folder|Description|
 |:--:|:--:|
-|0_Certificates| All learning certificates of this module|
-|1_Requirements| Decribe about the requirements and research|
-|2_Architecture| Detailed diagrams of project|
-|3_Implementation| Contains the source code of the project|
-|4_TestplanandOutput| Contains the test plan|
-|5_Report| Complete project report|
-|6_ImagesAndPhotos| Supporting images and photos|
-|7_Others| contains files |
+|`0_Certificates`| All learning certificates of this module|
+|`1_Requirements`| Decribe about the requirements and research|
+|`2_Architecture`| Detailed diagrams of project|
+|`3_Implementation`| Contains the source code of the project|
+|`4_TestplanandOutput`| Contains the test plan|
+|`5_Report`| Complete project report|
+|`6_ImagesAndPhotos`| Supporting images and photos|
+|`7_Others`| contains files |
 
 
 
