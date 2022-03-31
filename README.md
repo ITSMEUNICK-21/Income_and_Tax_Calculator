@@ -25,7 +25,7 @@ Reliable and easy-to-use calculator to estimate your Tax payable on your taxable
 
 ## Feedback
 
-If you have any feedback or suggestions, please reach out to me at nikhilsureshhegde21@gmail.com
+If you have any feedback or suggestions, please feel free to reach out to me at nikhilsureshhegde21@gmail.com
 
 
 
