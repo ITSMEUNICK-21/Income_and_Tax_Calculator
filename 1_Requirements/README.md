@@ -1,5 +1,6 @@
 # Description
-* Income Tax Calculator is reliable and easy-to-use calculator to estimate your taxable income or tax payable. It is possible to select your age to get the corresponding tax payable. Also one has the choice to see and compare the tax payables in Old Regime and New Regime and choose accordingly.
+* Income Tax Calculator is reliable and easy-to-use calculator to estimate your taxable income or tax payable. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department.
+
 # Requirements
 * Visual Studio Code, gcc compiler, Linux OS, Windows OS
 # Features
