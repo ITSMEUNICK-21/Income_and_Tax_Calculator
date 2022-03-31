@@ -31,14 +31,7 @@
 
 
 # SWOT Analysis
-* Strenght : 
-    * Inclusive of GST taxes and searching the previous invoices
-* Weakness : 
-    * Payment gateways, QR code are not added, but in future I will make this feature enable and make this a strenght
-* Opportunity :
-    * For Small scale business owners, it is a very good application and it saves a lot of time and money
-* Threats : 
-    * This application is vulnerable to virus threats
+![](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 
 # 4W's & 1H
 * What : Application Software for Generating Restaurant Inovice 
