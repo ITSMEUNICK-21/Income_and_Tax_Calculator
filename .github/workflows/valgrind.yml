@@ -28,8 +28,6 @@ jobs:
             sudo apt-get -y install valgrind
             
       # Runs a set of commands using the runners shell
-      - name: make test
-        run: make -C 3_Implementation/ test
       - name: Valgrind
         run: valgrind make -C 3_Implementation/ a.exe
              
