@@ -8,20 +8,26 @@
 * You can see and compare the tax payables under Old Regime and New Regime of Income Tax.
    
 # Highlevel Requirements
-|ID|Description|Status|
+|HLR_ID|Description|Status|
 |:--:|:--:|:--:|
-|HLR_01|This project helps to get tax payable on your taxable income|Implemented|
-|HLR_02|This project allows to select age based distinction on tax payable|Implemented|
-|HLR_03|This project allows to include Allowances|Future|
-|HLR_04|This project allows to include Deductions|Future|
+|HLR_1|This project helps to get tax payable on your taxable income|Implemented|
+|HLR_2|This project allows to select age based distinction on tax payable|Implemented|
+|HLR_3|This project allows to compare tax payable under Old Regime and New Regime of Income Tax|Implemented|
+|HLR_4|This project allows to include Allowances|Future|
+|HLR_5|This project allows to include Deductions|Future|
 
     
 # Lowlevel Requirements
-|ID|Description|Status|
-|:--:|:--:|:--:|
-|LLR_01|This project calculates total with discount|Implemented|
-|LLR_02|This project calculates grand total with GST|Implemented|
-|LLR_03|Prints Invalid message if entered wrong input|Implemented|
+|HLR_ID|LLR_ID|Description|Status|
+|:--:|:--:|:--:|:--:|
+|HLR_1|LLR_01|Selects tax rates applicable according to the range of taxable income|Implemented|
+|HLR_2|LLR_01|Tax payable for people with age less than 60|Implemented|
+||LLR_02|Tax payable for people with age more than 60 but less than 80|Implemented|
+||LLR_03|Tax payable for people with age more than 80|Implemented|
+|HLR_3|LLR_01|Tax payable under Old Regime|Implemented|
+||LLR_02|Tax payable under New Regime|Implemented|
+
+
 
 # SWOT Analysis
 * Strenght : 
