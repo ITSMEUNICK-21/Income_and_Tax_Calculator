@@ -34,9 +34,15 @@
 ![](https://github.com/ITSMEUNICK-21/M1_Income_and_Tax_Calculator/blob/main/6_ImagesAndVideos/SWOT%20Analysis.png)
 
 # 4W's & 1H
-* What : Application Software for Generating Restaurant Inovice 
-* When : 02.02.2022
-* Where : Using Visual Studio Code and C compiler
-* Why : For making it feasible to small scale restaurant owners and fast 
-* How : Using C language
+* **What**  : A reliable and easy-to-use Income Tax Calculator.
+* **When**  : Whenever there is a need to track the tax payable on taxable income and especially before filing Income Tax Return.
+* **Where** : All salaried people can use this calculator at their own convenience in their preferred location.
+* **Why**   : It automates the process of tax calculation and offers useful insights regarding their tax payable under Old and New Regime and many more features.
+* **How**   : By offering a software solution using C Programming.
+
+# References
+
+https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1#taxslabs
+
+
 
