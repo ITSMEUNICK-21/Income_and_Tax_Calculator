@@ -19,6 +19,15 @@ Reliable and easy-to-use calculator to estimate your Tax payable on your taxable
 |`6_ImagesAndPhotos`| Supporting images and photos|
 |`7_Others`| contains files |
 
+## Author
+
+- [@ITSMEUNICK-21](https://www.github.com/ITSMEUNICK-21)
+
+## Feedback
+
+If you have any feedback or suggestions, please reach out to me at nikhilsureshhegde21@gmail.com
+
+
 
 
 
