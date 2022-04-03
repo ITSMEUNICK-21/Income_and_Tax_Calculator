@@ -1,5 +1,5 @@
 # Income_and_Tax_Calculator
-Reliable and easy-to-use calculator to estimate your Tax payable on your taxable income. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department.
+Reliable and easy-to-use calculator to estimate your Tax payable on your taxable income. Income tax is computed as the product of a tax rate times the taxable income in accordance to guidelines laid out by Income Tax Department
 
 ## Badges
  
