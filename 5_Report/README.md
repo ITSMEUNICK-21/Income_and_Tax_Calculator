@@ -1,6 +1,6 @@
 # Project Report
-         This project is helpful for small scale restaurant owners, who can't afford their budget on billing software. 
-         It is available 24*7 and is feasible to bussiness owners.
+         Reliable and easy-to-use calculator to estimate your Tax payable on your taxable income. Income tax is computed as the product of a tax rate times the
+         taxable income in accordance to guidelines laid out by Income Tax Department
 
 ## Features of the project
          This project's key features are :
