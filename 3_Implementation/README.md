@@ -6,6 +6,6 @@ Folder        | description
 --------------| ----------------------------------------------
 `inc`         | All header files
 `src`         | Main source code for calculator
-`Build`        | Includes the .elf file
+`test`        | Includes unit testing files
 `documentation` | All files for documentation
-`simulation` | Includes the simulation file    
+`unity` | All files for Unity framework    
